@@ -1,4 +1,4 @@
-namespace api_mvc.Models;
+namespace LonsonMvc.Models;
 
 public class ErrorViewModel
 {
